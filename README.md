@@ -1,2 +1,2 @@
-# fozzels-docs
-Fozzels documentation
+# Fozzels.com documentation
+Hello world
