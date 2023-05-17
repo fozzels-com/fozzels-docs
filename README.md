@@ -14,4 +14,6 @@ Lalala
 
 ## Heading 2
 Test embed of click video. 👍
-<iframe src="https://app.supademo.com/embed/-bkMOWh2Mgu8ZnAaJISew" frameborder="0" style="position: absolute; top: 0; left: 0; width: 50%; height: 50%;"></iframe>
+Works only if diplayed in github pages.
+
+<div style="position: relative; padding-bottom: calc(51.46874999999999% + 44px); height: 0;"><iframe src="https://app.supademo.com/embed/-bkMOWh2Mgu8ZnAaJISew" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
